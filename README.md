@@ -32,7 +32,7 @@ After calibration, run the piece detection:
  ### Optional flags:
 
 * --debug: Save debug frames showing piece detection
---no-display: Run without visualization window (faster)
+* --no-display: Run without visualization window (faster)
 
 ### Files generated
 * calibration.json: Stores ROI coordinates and HSV color ranges
