@@ -1,6 +1,6 @@
 # TGM4 sequencer
 
-Get pieces from footage of TGM4 and output it in a text file.
+Get pieces from footage of TGM4 and output it in a text file. Project was mostly vibed with Claude 3.7.
 
 # Usage
 I'm using UV, so running it with it should automagically install the dependencies (OpenCV, NumPy)
